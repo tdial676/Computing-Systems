@@ -1,0 +1,19 @@
+ROOT
+    a
+        a.txt
+        b.txt
+        c.txt
+    b.txt
+    c
+        a.txt
+        e
+            l.txt
+        i
+            r
+                c.txt
+            t
+                r
+                    u.txt
+            v
+                i
+                    c.txt

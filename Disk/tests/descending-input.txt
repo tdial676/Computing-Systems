@@ -1,0 +1,13 @@
+t.txt:telescope
+n/o/x.txt:noxious
+i/s/l/a.txt:island
+i/n/v/e.txt:invert
+n/o/t.txt:notice
+n/o/o/d.txt:noodle
+n/e.txt:next
+n/o/n.txt:nonagram
+i/d/i.txt:idiom
+i/n/i.txt:initial
+i/n/e.txt:inert
+n/o/i.txt:noisy
+n/a.txt:nap

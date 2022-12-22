@@ -1,0 +1,9 @@
+a/a.txt:aardvark
+b.txt:bonus
+a/b.txt:abacus
+c/a.txt:cattle
+c/e/l.txt:celebration
+a/c.txt:acting
+c/i/r/c.txt:circus
+c/i/t/r/u.txt:citrus
+c/i/v/i/c.txt:civics

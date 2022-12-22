@@ -1,0 +1,10 @@
+LET N = 1000
+LET K = 0
+WHILE K < N
+    LET N = N - 2
+    LET K = K + 1
+END WHILE
+#334
+PRINT K
+#332
+PRINT N

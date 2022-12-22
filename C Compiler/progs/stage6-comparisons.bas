@@ -1,0 +1,96 @@
+LET A = -20
+LET B = -10
+LET C = 0
+LET D = 10
+LET E = 20
+LET F = 30
+LET G = 40
+LET H = 50
+
+#1
+IF D < E
+    PRINT 1
+END IF
+IF D = E
+    PRINT 2
+END IF
+IF D > E
+    PRINT 3
+END IF
+
+#5
+IF H < H
+    PRINT 4
+END IF
+IF H = H
+    PRINT 5
+END IF
+IF H > H
+    PRINT 6
+END IF
+
+#9
+IF G < F
+    PRINT 7
+END IF
+IF G = F
+    PRINT 8
+END IF
+IF G > F
+    PRINT 9
+END IF
+
+#10
+IF A < D
+    PRINT 10
+END IF
+IF A = D
+    PRINT 11
+END IF
+IF A > D
+    PRINT 12
+END IF
+
+#15
+IF F < A
+    PRINT 13
+END IF
+IF F = A
+    PRINT 14
+END IF
+IF F > A
+    PRINT 15
+END IF
+
+#16
+IF A < B
+    PRINT 16
+END IF
+IF A = B
+    PRINT 17
+END IF
+IF A > B
+    PRINT 18
+END IF
+
+#21
+IF B < A
+    PRINT 19
+END IF
+IF B = A
+    PRINT 20
+END IF
+IF B > A
+    PRINT 21
+END IF
+
+#23
+IF B < B
+    PRINT 22
+END IF
+IF B = B
+    PRINT 23
+END IF
+IF B > B
+    PRINT 24
+END IF

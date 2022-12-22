@@ -1,0 +1,17 @@
+#24
+#2
+#5
+#2
+#5
+
+LET A = 1 * 2 * 3 * 4
+PRINT A
+
+LET A = 2
+PRINT A
+
+LET Z = 5
+PRINT Z
+
+PRINT A
+PRINT Z

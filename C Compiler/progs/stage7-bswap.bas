@@ -1,0 +1,16 @@
+    # Performs little-endian to big-endian conversion
+
+LET A = 0x1234567801234567
+LET B = 0
+LET I = 0
+WHILE I < 8
+    LET X = A / 256
+    LET B = B * 256 + A - X * 256
+    LET A = X
+    LET I = I + 1
+END WHILE
+
+#7441392448520467474
+#7441392448520467474
+PRINT 0x6745230178563412
+PRINT B
